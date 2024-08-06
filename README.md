@@ -3,7 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pinindu20&label=Profile%20views&color=0e75b6&style=flat" alt="pinindu20" /> </p>
 
-<h3 align="left">About me:</h3>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+<h3 align="left"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> About me:</h3>
 
 - 🔭 I’m currently working on **Laravel web application**
 
@@ -21,7 +23,7 @@
 <a href="https://fb.com/https://www.facebook.com/pinindu.gangodaelapathage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pinindu.gangodaelapathage" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3><hr>
+<h3 align="left"> 🛠️ Languages and Tools:</h3><hr>
 
 <h3 align="center"> Programming Languages : </h3>
 
@@ -37,8 +39,29 @@
 <hr  size="1">
 
 <h3 align="center"> Framework's : </h3>
-<p align="center"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><hr>
+<p align="center"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg" alt="laravel" width="60" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><hr>
 
+<h3 align="center"> Integrated Development Environments (IDEs) : </h3>
+<p align="center"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="40" height="40"/>
+<img src="https://github.com/Niroshana-98/Niroshana-98/blob/main/assets/netb.png" width="40" height="40"/> </p> <hr>
 
 <br>
+
+### ⚙️ &nbsp;GitHub Analytics :
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pinindu20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pinindu20&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pinindu20&theme=dark&hide_border=true"/>
+</p><hr>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+
 
