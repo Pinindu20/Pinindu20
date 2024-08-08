@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <h1 align="center">Hi 👋, I'm Pinindu Nuwandhara</h1>
 <h3 align="center">A passionate full-stack developer & Final year undergraduate, From SLIATE</h3>
 
@@ -50,10 +51,12 @@
 ### ⚙️ &nbsp;GitHub Analytics :
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pinindu20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pinindu20&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+ <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pinindu20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pinindu20&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <p align="center">
